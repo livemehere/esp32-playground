@@ -2,5 +2,4 @@
 
 ## Step 1 : Blink an internal LED(pin 2)
 
-<video src="docs/step1-blink-led.mp4" controls width="640">
-</video>
+![step1](docs/step1-blink-led.gif)
