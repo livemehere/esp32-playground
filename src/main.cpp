@@ -1,17 +1,17 @@
 #include <Arduino.h>
 
-constexpr int redPin = 2;
+constexpr int ledPin = 26;
 
 void setup() {
   Serial.begin(9600);
-  pinMode(redPin, OUTPUT);
+  pinMode(ledPin, OUTPUT);
 }
 
 void loop() {
-  digitalWrite(redPin, HIGH);
+  digitalWrite(ledPin, HIGH);
   Serial.println("LED ON");
   delay(1000);
-  digitalWrite(redPin, LOW);
+  digitalWrite(ledPin, LOW);
   Serial.println("LED OFF");
   delay(1000);
 }
