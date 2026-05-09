@@ -7,3 +7,6 @@
 ## Step 2 : Blink an external LED through a resistor (pin 26)
 
 ![step2](docs/step2-blink-external-led.gif)
+
+## Step 3 : Fading LED
+

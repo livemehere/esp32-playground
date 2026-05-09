@@ -1,17 +1,19 @@
 #include <Arduino.h>
 
 constexpr int ledPin = 26;
+int brightness = 0;
+int fadeAmount = 5;
 
 void setup() {
   Serial.begin(9600);
-  pinMode(ledPin, OUTPUT);
+  ledcAttach(ledPin, 5000, 8);
 }
 
 void loop() {
-  digitalWrite(ledPin, HIGH);
-  Serial.println("LED ON");
-  delay(1000);
-  digitalWrite(ledPin, LOW);
-  Serial.println("LED OFF");
-  delay(1000);
+  ledcWrite(ledPin, brightness);
+  brightness += fadeAmount;
+  if(brightness <= 0 || brightness >= 255){
+    fadeAmount *= -1;
+  }
+  delay(50);
 }
