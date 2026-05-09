@@ -2,6 +2,7 @@
 
 ## Step 1 : Blink an internal LED(pin 2)
 
+
 ![step1](docs/step1-blink-led.gif)
 
 ## Step 2 : Blink an external LED through a resistor (pin 26)
@@ -10,3 +11,4 @@
 
 ## Step 3 : Fading LED
 
+<img width="480" height="360" alt="03 Fading LED" src="https://github.com/user-attachments/assets/4a57447b-8be3-4c57-8362-d719f59ab5e5" />
