@@ -12,3 +12,7 @@
 ## Step 3 : Fading LED
 
 <img width="480" height="360" alt="03 Fading LED" src="https://github.com/user-attachments/assets/4a57447b-8be3-4c57-8362-d719f59ab5e5" />
+
+## Step 4 : Colorful light
+
+<img width="480" height="360" alt="output" src="https://github.com/user-attachments/assets/1c9718e0-d382-46fb-a013-cb3c81962917" />
