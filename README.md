@@ -17,6 +17,6 @@
 
 <img width="480" height="360" alt="output" src="https://github.com/user-attachments/assets/1c9718e0-d382-46fb-a013-cb3c81962917" />
 
-## Step 5 : Segment Display
+## Step 5 : Segment Display with 74HC595
 
 <img width="480" height="360" alt="output" src="https://github.com/user-attachments/assets/dd695d34-dae7-4b02-abe6-a66a709476a4" />
