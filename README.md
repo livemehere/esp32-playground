@@ -24,6 +24,6 @@
 
 <img width="480" height="640" alt="output" src="https://github.com/user-attachments/assets/f3ae6093-5bb4-4357-9f5f-a2c8c38f43e9" />
 
-## Step 7 : step7-neopixel-strip
+## Step 7 : Neopixel-strip
 
 <img width="480" height="640" alt="output" src="https://github.com/user-attachments/assets/7639b5f2-36f9-4d55-9d22-55f221356930" />
