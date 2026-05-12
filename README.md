@@ -43,3 +43,5 @@ https://github.com/user-attachments/assets/5f8e8a36-a086-45a8-8662-5d19ffe92f66
 ## Step 12 : Water Pump
 
 <img width="480" height="640" alt="output" src="https://github.com/user-attachments/assets/bb1c9484-87ea-480d-b1c9-c5f2a802b704" />
+
+## Step 13 : Servo
