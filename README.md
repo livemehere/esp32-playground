@@ -38,3 +38,4 @@ https://github.com/user-attachments/assets/5f8e8a36-a086-45a8-8662-5d19ffe92f66
 
 ## Step 10 : Motor
 
+<img width="480" height="640" alt="output" src="https://github.com/user-attachments/assets/8858f1bc-0067-4d88-bcc0-e297a5d9acf2" />
