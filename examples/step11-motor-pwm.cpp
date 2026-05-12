@@ -21,7 +21,8 @@ void loop() {
 
   delay(1000);
 
-  for (int i=255; i>0; i--) {
+  for (int i=255; i>0; i--)
+  {
     ledcWrite(motor1A, i);
     ledcWrite(motor2A, 0);
     delay(50);
