@@ -57,3 +57,6 @@ https://github.com/user-attachments/assets/5f8e8a36-a086-45a8-8662-5d19ffe92f66
 <img width="480" height="640" alt="output" src="https://github.com/user-attachments/assets/1bdebdc1-0a8d-4347-a215-59a020496e77" />
 
 ## Step 15 : Detect Obstacle
+
+<img width="480" height="640" alt="output" src="https://github.com/user-attachments/assets/f6dd3d8a-7831-4c85-a1c3-c29958b924b5" />
+
