@@ -67,3 +67,6 @@ https://github.com/user-attachments/assets/5f8e8a36-a086-45a8-8662-5d19ffe92f66
 ## Step 17 : Detect Human
 
 <img width="480" height="640" alt="output" src="https://github.com/user-attachments/assets/90a2628d-8658-4ecc-9d4f-e452b7f7f7cb" />
+
+##  Step 18 : Two transistor
+
