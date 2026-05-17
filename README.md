@@ -60,3 +60,4 @@ https://github.com/user-attachments/assets/5f8e8a36-a086-45a8-8662-5d19ffe92f66
 
 <img width="480" height="640" alt="output" src="https://github.com/user-attachments/assets/f6dd3d8a-7831-4c85-a1c3-c29958b924b5" />
 
+## Step 16 : Detect Line (Black & White)
