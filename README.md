@@ -86,4 +86,10 @@ https://github.com/user-attachments/assets/5f8e8a36-a086-45a8-8662-5d19ffe92f66
 
 <img width="480" height="499" alt="output" src="https://github.com/user-attachments/assets/fbdee4a5-9e4e-43bf-a721-7ac9e8baae92" />
 
+## Step 22 : Thermometer
+
+<p>
+<img width="480" height="640" alt="input2" src="https://github.com/user-attachments/assets/8d7c0c46-2de3-4215-b363-f3b1f84651ee" />
+<img width="480" height="640" alt="output" src="https://github.com/user-attachments/assets/708f9fae-fe38-46c9-b53a-668113e7ce07" />
+</p>
 
