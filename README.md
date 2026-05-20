@@ -82,4 +82,8 @@ https://github.com/user-attachments/assets/5f8e8a36-a086-45a8-8662-5d19ffe92f66
 
 <img width="480" height="640" alt="output" src="https://github.com/user-attachments/assets/6573db1c-9ab1-4b19-a668-0c8415307a7f" />
 
+## Step 21 : Measure Moisture
+
+<img width="480" height="499" alt="output" src="https://github.com/user-attachments/assets/fbdee4a5-9e4e-43bf-a721-7ac9e8baae92" />
+
 
