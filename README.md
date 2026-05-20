@@ -93,3 +93,9 @@ https://github.com/user-attachments/assets/5f8e8a36-a086-45a8-8662-5d19ffe92f66
 <img width="480" height="640" alt="output" src="https://github.com/user-attachments/assets/708f9fae-fe38-46c9-b53a-668113e7ce07" />
 </p>
 
+## Step 23 : Joystick
+
+<p>
+<img width="480" height="640" alt="input2" src="https://github.com/user-attachments/assets/47eda5d7-70e0-4430-8a80-59f830a9e0c6" />
+<img width="480" height="640" alt="output" src="https://github.com/user-attachments/assets/c83fa18f-9351-46bb-a489-ffee2176ce91" />
+</p>
