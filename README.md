@@ -78,3 +78,5 @@ https://github.com/user-attachments/assets/5f8e8a36-a086-45a8-8662-5d19ffe92f66
 
 <img width="480" height="640" alt="output" src="https://github.com/user-attachments/assets/0aff845e-1ba9-47fd-8e92-d4c2ab2046d7" />
 
+## Step 20 : Pot
+
