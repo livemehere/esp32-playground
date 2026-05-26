@@ -110,5 +110,6 @@ https://github.com/user-attachments/assets/5f8e8a36-a086-45a8-8662-5d19ffe92f66
 ## Step 25 : Temp & Humidity
 
 <p>
-
+<img width="480" height="640" alt="input3" src="https://github.com/user-attachments/assets/520eefb6-bd3a-4c1e-82c1-10e9d2a687db" />
+<img width="480" height="640" alt="output" src="https://github.com/user-attachments/assets/f9190065-7b34-4fde-a31d-6210f0998883" />
 </p>
