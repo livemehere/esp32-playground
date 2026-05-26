@@ -103,5 +103,6 @@ https://github.com/user-attachments/assets/5f8e8a36-a086-45a8-8662-5d19ffe92f66
 ## Step 24 : Measuring Distance
 
 <p>
-
+<img width="480" height="640" alt="input2" src="https://github.com/user-attachments/assets/95c366e6-b9d0-4452-8f46-548f064065eb" />
+<img width="480" height="640" alt="output" src="https://github.com/user-attachments/assets/a0e4ef21-368d-4c4a-b3d7-ef95550359dd" />
 </p>
